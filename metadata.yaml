@@ -1,0 +1,41 @@
+_repo: The-Story-of-Doctor-Dolittle_501
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Walpole, Hugh, Sir
+    alias: Walpole, Sir Hugh
+    birthdate: 1884
+    deathdate: 1941
+    gutenberg_agent_id: '1207'
+    url: http://www.gutenberg.org/2009/agents/1207
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Walpole
+creator:
+  author:
+    agent_name: Lofting, Hugh
+    birthdate: 1886
+    deathdate: 1947
+    gutenberg_agent_id: '269'
+    url: http://www.gutenberg.org/2009/agents/269
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Lofting
+description: Once upon a time, many years ago - when our grandfathers were little
+  children - there was a doctor, and his name was Dolittle - John Dolittle M.D. Doctor
+  Dolittle likes animals. In fact, he likes them so much he fills his house with every
+  kind of creature imaginable and even learns to talk their language. And when the
+  Doctor hears of a terrible sickness among the monkeys in Africa, soon he and his
+  animal friends are setting off on the most unforgettable adventure...
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Fantasy'
+- !lcc 'PZ'
+- GITenberg
+title: The Story of Doctor Dolittle
+url: http://www.gutenberg.org/ebooks/501
